@@ -1,0 +1,31 @@
+- id: Tsukinojo
+  name: つきのじょう
+  grade: 3
+  club:
+    - えっち部
+    - 調理部
+  special:
+    - Nakamihaku
+- id: Nakamihaku
+  name: 中身はく
+  grade: 1
+  club:
+    - 調理部
+    - えっち部
+  special:
+    - Tsukinojo
+- id: Satoshi
+  name: サトシ
+  grade: 2
+  club:
+    - えっち部
+  special:
+    - Dummy
+- id: Ryukko
+  name: RYUKKO
+  grade: 3
+  club:
+    - Dummy
+  special:
+    - Tsukinojo
+    - Nakamihaku
